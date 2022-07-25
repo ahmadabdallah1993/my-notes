@@ -24,11 +24,11 @@ _28 years old_
 
 [google](https://www.google.com/)
 
-..
-..
-..
-
-
+  
+    
+      
+        
+        
 #### why motivition developer always will try achiveing the best?
 1. fully understanding of the major effect and important the software in these days.
 2. being fully understand of the reason for working hard as it will always improve the world and make it better in the future.
